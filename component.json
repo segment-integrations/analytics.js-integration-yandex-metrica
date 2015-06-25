@@ -2,12 +2,12 @@
   "name": "analytics.js-integration-yandex-metrica",
   "repo": "segment-integrations/analytics.js-integration-yandex-metrica",
   "description": "The Yandex Metrica analytics.js integration.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
     "component/bind": "1.0.0",
-    "segmentio/analytics.js-integration": "0.3.x",
+    "segmentio/analytics.js-integration": "^1.0.1",
     "timoxley/next-tick": "0.0.2",
     "segmentio/when": "0.0.1"
   },
